@@ -1,0 +1,5 @@
+Halo pak, salam kenal saya faqih dari jawa tengah
+
+Resolusi saya:
+- Membuat web dengan phython
+- Bekerja di startup
